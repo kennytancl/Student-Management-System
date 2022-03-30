@@ -16,7 +16,7 @@ namespace Transparent_Form
     class DBconnect
     {
         //to create connection
-        MySqlConnection connect = new MySqlConnection("datasource=localhost;port=3306;username=us;password=pass;database=studentdb");
+        MySqlConnection connect = new MySqlConnection("datasource=localhost;port=3306;username=root;database=studentdb");
 
         //to get connection
         public MySqlConnection getconnection
