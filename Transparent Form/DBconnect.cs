@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 
+/*
+ * DASHBOARD PAGE
+ */
 namespace Transparent_Form
 {
     /*
